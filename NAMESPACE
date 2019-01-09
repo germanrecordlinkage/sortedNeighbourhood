@@ -1,0 +1,2 @@
+export(sortedNeighbourhood.matchFiles, sortedNeighbourhood.statistics)
+useDynLib(sortedNeighbourhood, snMatchFilesCall, snStatisticsCall)
